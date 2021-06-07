@@ -1,0 +1,22 @@
+#clock-body{
+    width:60%;
+    margin: auto;
+    padding: 3rem;
+    font-size: 1.5rem;
+    font-family: monospace;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#labels{
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.fa-pause, .fa-play, .fa-redo, .fa-arrow-down, .fa-arrow-up{
+    cursor: pointer;
+}
