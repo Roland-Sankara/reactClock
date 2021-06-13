@@ -1,4 +1,4 @@
-# React 25 + 5 Clock
+# React 25 + 5 / Pomodoro Clock
 > Simple react timer clock
 
 ## Hosted App link
